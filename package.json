@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:michaellee/field-guide-to-jekyll-theme.git",
   "author": "Michael Lee <michaelsoolee@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tachyons": "^4.7.4"
+  }
 }
